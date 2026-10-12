@@ -1,0 +1,20 @@
+A desktop application that fetches real-time weather information from a REST API and displays it in a graphical dashboard using Tkinter.
+
+Users can search for any city and view:
+
+Current temperature
+Weather condition
+Humidity
+Wind speed
+Pressure
+Sunrise & Sunset time
+Weather icon
+Date and Time
+
+
+technologies used:-
+Python
+Tkinter (GUI)
+REST API
+JSON
+Requests Library
